@@ -62,3 +62,21 @@ A custom neural network implementation without using any ML libraries. It includ
 
 ```bash
 python Naive_bayes_classifier.py
+python KNN.py
+python ANN.py
+```
+
+## Cross-Validation
+The project uses k-fold cross-validation to validate the models' performance. The results are compared with the test set results to ensure consistency and robustness.
+
+## Results
+The ANN model outperformed the other methods in terms of accuracy and robustness. The results from the project indicate that while simpler models like Naïve Bayes and k-NN can be computationally efficient, they may not always capture the complexity of image data as effectively as neural networks.
+
+## Conclusion
+Neural networks, with their ability to learn complex patterns, proved to be the best performing model for this image classification task. However, the simplicity and efficiency of Naïve Bayes and k-NN make them suitable for other types of classification problems where the data may not be as complex.
+
+## Contribution
+Alkin Er (@alkiner): Implemented Naïve Bayes and k-NN models.
+
+
+
