@@ -65,8 +65,7 @@ The ANN model outperformed the other methods in terms of accuracy and robustness
 ## Conclusion
 Neural networks, with their ability to learn complex patterns, proved to be the best performing model for this image classification task. However, the simplicity and efficiency of Naïve Bayes and k-NN make them suitable for other types of classification problems where the data may not be as complex.
 
-## Contribution
-Alkin Er (@alkiner): Implemented Naïve Bayes and k-NN models.
+## Credits
 
-
+Special thanks to [Alkın Er](https://github.com/alkiner) for his contributions to the Naïve Bayes and k-NN models.
 
