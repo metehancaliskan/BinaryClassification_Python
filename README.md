@@ -56,16 +56,6 @@ A custom neural network implementation without using any ML libraries. It includ
 
 - **Accuracy**: Achieved an accuracy of 0.889.
 
-## Running the Code
-
-### Naïve Bayes Classifier
-
-```bash
-python Naive_bayes_classifier.py
-python KNN.py
-python ANN.py
-```
-
 ## Cross-Validation
 The project uses k-fold cross-validation to validate the models' performance. The results are compared with the test set results to ensure consistency and robustness.
 
